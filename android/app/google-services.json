@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "372985487592",
+    "project_id": "flutter-chat-app-6fde2",
+    "storage_bucket": "flutter-chat-app-6fde2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372985487592:android:6262267e39d6ac7240695d",
+        "android_client_info": {
+          "package_name": "com.example.udemy_practice7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATetX_vXMQ2Efyqztr9taqF6054MO682k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
